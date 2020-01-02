@@ -1,4 +1,4 @@
-# venue-search-v1
+# venue-search
 
 ## Project setup
 ```
