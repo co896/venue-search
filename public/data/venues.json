@@ -1,0 +1,44 @@
+[
+  {
+    "venueName": "The Ivory Vaults",
+    "venueAddress01": "Ivory House",
+    "venueAddress02": "St Katharine Docks",
+    "venueCity": "London",
+    "venuePostcode": "E1W 1BP"
+  },
+  {
+    "venueName": "Mansfield Traquair",
+    "venueAddress01": "15 Mansfield Pl",
+    "venueAddress02": "",
+    "venueCity": "Edinburgh",
+    "venuePostcode": "EH3 6BB"
+  },
+  {
+    "venueName": "Chamber Space",
+    "venueAddress01": "Elliot House",
+    "venueAddress02": "151 Deansgate",
+    "venueCity": "Manchester",
+    "venuePostcode": "M3 3WD"
+  },
+  {
+    "venueName": "The Old Library",
+    "venueAddress01": "Zellig",
+    "venueAddress02": "Gibb St",
+    "venueCity": "Birmingham",
+    "venuePostcode": "B9 4AT"
+  },
+  {
+    "venueName": "Tramshed Tech",
+    "venueAddress01": "Unit D",
+    "venueAddress02": "Pendyris St",
+    "venueCity": "Cardiff",
+    "venuePostcode": "CF11 6BH"
+  },
+  {
+    "venueName": "Agapé Centre Belfast",
+    "venueAddress01": "236-266 Lisburn Rd",
+    "venueAddress02": "",
+    "venueCity": "Belfast",
+    "venuePostcode": "BT9 6GF"
+  }
+]
